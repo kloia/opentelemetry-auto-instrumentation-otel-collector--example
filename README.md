@@ -16,12 +16,12 @@
 
 ## Installation (by Order)
 
-* [Jaeger](https://github.com/muhammedsaidkaya/opentelemetry-auto-instrumentation-otel-collector--example/blob/master/j.aeger/jaeger.yaml): http://localhost:30008
-* [Prometheus](https://github.com/muhammedsaidkaya/opentelemetry-auto-instrumentation-otel-collector--example/blob/master/prometheus/prometheus.yaml): http://localhost:30009
-* [Elasticsearch](https://github.com/muhammedsaidkaya/opentelemetry-auto-instrumentation-otel-collector--example/blob/master/elastic-kibana/elastic.yaml): http://localhost:30013
-* [Kibana](https://github.com/muhammedsaidkaya/opentelemetry-auto-instrumentation-otel-collector--example/blob/master/elastic-kibana/kibana.yaml): http://localhost:30012
-* [Kafka](https://github.com/muhammedsaidkaya/opentelemetry-auto-instrumentation-otel-collector--example/blob/master/kafka/README.md)
-* [Otel-Collector](https://github.com/muhammedsaidkaya/opentelemetry-auto-instrumentation-otel-collector--example/blob/master/otel/otelcollector.yaml)
+* [Jaeger](https://github.com/kloia/opentelemetry-auto-instrumentation-otel-collector--example/blob/master/j.aeger/jaeger.yaml): http://localhost:30008
+* [Prometheus](https://github.com/kloia/opentelemetry-auto-instrumentation-otel-collector--example/blob/master/prometheus/prometheus.yaml): http://localhost:30009
+* [Elasticsearch](https://github.com/kloia/opentelemetry-auto-instrumentation-otel-collector--example/blob/master/elastic-kibana/elastic.yaml): http://localhost:30013
+* [Kibana](https://github.com/kloia/opentelemetry-auto-instrumentation-otel-collector--example/blob/master/elastic-kibana/kibana.yaml): http://localhost:30012
+* [Kafka](https://github.com/kloia/opentelemetry-auto-instrumentation-otel-collector--example/blob/master/kafka/README.md)
+* [Otel-Collector](https://github.com/kloia/opentelemetry-auto-instrumentation-otel-collector--example/blob/master/otel/otelcollector.yaml)
     * HTTP Receiver: http://localhost:30010
     * Prometheus Exporter: http://localhost:30011/metrics
 
