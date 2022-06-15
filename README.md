@@ -16,7 +16,7 @@
 
 ## Installation (by Order)
 
-* [Jaeger](https://github.com/kloia/opentelemetry-auto-instrumentation-otel-collector--example/blob/master/j.aeger/jaeger.yaml): http://localhost:30008
+* [Jaeger](https://github.com/kloia/opentelemetry-auto-instrumentation-otel-collector--example/blob/master/jaeger/jaeger.yaml): http://localhost:30008
 * [Prometheus](https://github.com/kloia/opentelemetry-auto-instrumentation-otel-collector--example/blob/master/prometheus/prometheus.yaml): http://localhost:30009
 * [Elasticsearch](https://github.com/kloia/opentelemetry-auto-instrumentation-otel-collector--example/blob/master/elastic-kibana/elastic.yaml): http://localhost:30013
 * [Kibana](https://github.com/kloia/opentelemetry-auto-instrumentation-otel-collector--example/blob/master/elastic-kibana/kibana.yaml): http://localhost:30012
